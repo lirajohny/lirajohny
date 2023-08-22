@@ -1,5 +1,6 @@
-## Olá
-
+<div>
+<title>Hello, World!</title>
+<p>I'm a software engineering student, currently navigating a transformative transition into the world of programming. As a self-taught enthusiast, I've tackled challenging courses like CS50 and achieved fluency in English. Passionate about staying updated, I love diving into new concepts, collaborating with dynamic teams, solving code challenges, and continuously pushing my personal growth boundaries. Let's connect and create something incredible together!</p></div>
 <div>
 <a href="https://github.com/lirajohny">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lirajohny&show_icons=true&theme=transparent"/>
