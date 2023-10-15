@@ -1,6 +1,6 @@
 <div>
 <h1>Hello, World!</h1>
-<p>I'm a software engineering student, currently navigating a transformative transition into the world of programming. As a self-taught enthusiast, I've tackled challenging courses like CS50 and achieved fluency in English. Passionate about staying updated, I love diving into new concepts, collaborating with dynamic teams, solving code challenges, and continuously pushing my personal growth boundaries.</p></div>
+<p>I'm a software engineering student at <a href="https://42.rio">Ecole 42</a>.</br>Currently navigating a transformative transition into the world of programming. As a self-taught enthusiast, I've tackled challenging courses like <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50</a> and achieved fluency in English. Passionate about staying updated, I love diving into new concepts, collaborating with dynamic teams, solving code challenges, and continuously pushing my personal growth boundaries.</p></div>
 <div>
 <a href="https://github.com/lirajohny">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lirajohny&include_all_commits=true&show_private=true&show_icons=true&theme=transparent"/>
